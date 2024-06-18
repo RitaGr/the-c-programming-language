@@ -5,7 +5,7 @@ C is a general-purpose programming language, which features economy of expressio
 
 You can navigate to separate folders including the exercises of each chapter.
 + [Chapter 1](Chapter-1)
-+ [Chapter 2](Chapter-1)
++ [Chapter 2](Chapter-2)
 + [Chapter 3](Chapter-1)
 + [Chapter 4](Chapter-1)
 + [Chapter 5](Chapter-1)
