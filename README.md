@@ -21,4 +21,6 @@ You don't need to have the book as all exercises are written above each solution
 
 The `lectures` directory includes the solutions of exercises mentioned in the lectures. The lectures of each professor may diffrienciate, as the exercises mentioned. I have used the lectures from semester 2021b. 
 
+Overall there are 97 exercises in the whole book.
+
 If you find a mistake please hit me up.
