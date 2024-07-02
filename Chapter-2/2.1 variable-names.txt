@@ -1,0 +1,8 @@
+There are some restrictions on the names of variables and symbolic constants.
+Names are made up of letters and digits; the first character must be a letter.
+The underscore '_' counts as a character.
+Don't begin variable names with underscore, however, since library routines often use such names. 
+The c language is case sensitive meaning upper case and lower case letters are distinct, so x and X are different names.
+Traditional C practire is to use all lower case for variable names and all upper case for symbolic constants.
+
+Not proper names will be recognized by the compiler.
